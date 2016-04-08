@@ -16,3 +16,4 @@ gradle-app.setting
 .settings/
 bin/
 /cas.log
+/target/
