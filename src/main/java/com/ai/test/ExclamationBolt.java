@@ -13,7 +13,7 @@ import backtype.storm.tuple.Values;
 
 
 public class ExclamationBolt implements IRichBolt{
-
+//xindefenzhi
 	private static final long serialVersionUID = 1L;
 	OutputCollector _collector;
 
