@@ -16,7 +16,7 @@ public class ExclamationBolt implements IRichBolt{
 //xindefenzhi
 	private static final long serialVersionUID = 1L;
 	OutputCollector _collector;
-
+////
 	    @Override
 	    public void prepare(Map conf, TopologyContext context, OutputCollector collector) {
 	        _collector = collector;
